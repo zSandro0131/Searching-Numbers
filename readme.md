@@ -1,0 +1,1 @@
+Nesse projeto,vou aprender a fazer buscas usando Binary Search e Linear Search.
